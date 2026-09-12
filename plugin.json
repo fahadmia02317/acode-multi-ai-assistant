@@ -1,0 +1,12 @@
+{
+  "id": "com.meldrix.aiassistant",
+  "name": "Meldrix Multi-AI Assistant",
+  "version": "1.0.0",
+  "description": "A powerful multi-provider AI assistant for Acode editor. Supports OpenRouter, Google Gemini, Anthropic Claude, OpenAI, and Codex/Kie.ai with code generation, refactoring, and explanation features.",
+  "author": "Meldrix",
+  "icon": "",
+  "main": "main.js",
+  "permissions": ["network", "storage"],
+  "minVersionCode": 290,
+  "pluginType": "free"
+}
