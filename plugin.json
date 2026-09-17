@@ -2,7 +2,7 @@
   "id": "com.meldrix.aiassistant",
   "name": "Meldrix Multi-AI Assistant",
   "main": "main.js",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "readme": "readme.md",
   "files": ["plugin.json", "main.js", "readme.md"],
   "minVersionCode": 290,
@@ -17,7 +17,9 @@
     "openai",
     "codex",
     "code-generation",
-    "refactor"
+    "refactor",
+    "cline",
+    "chat"
   ],
   "repository": "https://github.com/fahadmia02317/acode-multi-ai-assistant",
   "author": {
